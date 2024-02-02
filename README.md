@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m @simalnaveed
-I’m currently learning web development in c#
+
 <!--
 **simalnaveed/simalnaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
